@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "870293920184",
+    "project_id": "language-converter-fd69f",
+    "storage_bucket": "language-converter-fd69f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870293920184:android:62c0bfc173edd7b5e8d74d",
+        "android_client_info": {
+          "package_name": "com.shashwatkumarmohanty.langcon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870293920184-jfv8vs9qsmj0u9pj44oje1gsucdf3olg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk0o8_fXYjJwkxCl7ADGn-YhVuclwxDa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870293920184-jfv8vs9qsmj0u9pj44oje1gsucdf3olg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
